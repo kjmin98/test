@@ -76,4 +76,4 @@ Scanner scan = new Scanner(System.in);
 
 [네이버](https://www.naver.com/)
 
-[다음](https://www.daum.net/, "검색 사이트")
+[다음](https://www.daum.net/ "검색 사이트")
